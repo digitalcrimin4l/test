@@ -1,4 +1,4 @@
-# [TERMINAL WEBSITE](digitalcrimin4l.github.io)
+<h1 align="center">TERMINAL WEBSITE</h1>
 
 pure html, css, and javascript 
 
