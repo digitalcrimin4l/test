@@ -1,5 +1,4 @@
 <h1 align="center">TERMINAL WEBSITE</h1>
 
-pure html, css, and javascript 
-
-This is not an original idea.
+<p align="center">terminal website build with pure html, css, and javascript</p>
+<p align="center">This is not an original idea.</p>
