@@ -33,7 +33,7 @@ help = [
 ];
 
 banner = [
-  '<span class="index">Watch your step.</span>',
+  '<span class="index"></span>',
   
 "                             (\,/)",
 "                             oo   '''//,        _",
@@ -42,6 +42,6 @@ banner = [
 "           © 2023                ',|  \    |__.' " ,
 "                                '~  '~----''",
   
-  '<span class="color2">lol i stole the whole idea.</span>',
+  '<span class="color2"></span>',
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
