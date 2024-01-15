@@ -22,7 +22,7 @@ projects = [
 
 help = [
   "<br>",
-  '<span class="command">whois</span>          Who is digitalcrimin4l',
+  '<span class="command">whois</span>          Who is marti2n',
   '<span class="command">social</span>         Display social networks',
   '<span class="command">projects</span>       View coding projects',
   '<span class="command">history</span>        View command history',
