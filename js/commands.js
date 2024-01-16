@@ -1,4 +1,4 @@
-var github = "https://github.com/digitalcrimin4l";
+var github = "https://github.com/marti2n";
 
 whois = [
   "<br>",
@@ -9,7 +9,7 @@ whois = [
 
 social = [
   "<br>",
-  'github         <a href="' + github + '" target="_blank">github/digitalcrimin4l' + "</a>",
+  'github         <a href="' + github + '" target="_blank">github/marti2n' + "</a>",
   "<br>"
 ];
 
