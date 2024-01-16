@@ -61,7 +61,7 @@ body {
   }
   #liner::before {
     color: #519975;
-    content: "visitor@digitalcrimin4l.github.io:~$";
+    content: "visitor@marti2n.github.io:~$";
   }
   #liner.password::before {
     content: "Password:";
